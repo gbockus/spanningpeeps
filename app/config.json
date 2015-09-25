@@ -1,0 +1,334 @@
+{
+	"people": [
+		{
+			"name": "Joel Rosinbum",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@leftarmbandit",
+			"images": {
+				"left": "images/joel/jr-left.png",
+				"right": "images/joel/jr-right.png",
+				"center": "images/joel/jr-center.png",
+				"fun": "images/joel/jr-fun.png"
+			}
+		},
+		{
+			"name": "Gordon Bockus",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@gordonk66",
+			"images": {
+				"left": "images/gbockus/gbockus-left.png",
+				"right": "images/gbockus/gbockus-right.png",
+				"center": "images/gbockus/gbockus-center.png",
+				"fun": "images/gbockus/gbockus-fun.png"
+			}
+		},
+		{
+			"name": "Joe Porcheddu",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@needJoeTwitter",
+			"images": {
+				"left": "images/joe/joe-left.png",
+				"right": "images/joe/joe-right.png",
+				"center": "images/joe/joe-center.png",
+				"fun": "images/joe/joe-fun.png"
+			}
+		},
+		{
+			"name": "Fotios Hatzis",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@fotiNeedsToGimmeTwitter",
+			"images": {
+				"left": "images/foti/foti-left.png",
+				"right": "images/foti/foti-right.png",
+				"center": "images/foti/foti-center.png",
+				"fun": "images/foti/foti-fun.png"
+			}
+		},
+		{
+			"name": "Paul Hernandez",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@needPaulTwitter",
+			"images": {
+				"left": "images/paulh/paul-left.png",
+				"right": "images/paulh/paul-right.png",
+				"center": "images/paulh/paul-center.png",
+				"fun": "images/paulh/paul-fun.png"
+			}
+		},
+		{
+			"name": "Clif Smith",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@needClifTwitter",
+			"images": {
+				"left": "images/clif/cliff-left.png",
+				"right": "images/clif/cliff-right.png",
+				"center": "images/clif/cliff-center.png",
+				"fun": "images/clif/cliff-fun.png"
+			}
+		},
+		{
+			"name": "Mike Pav",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@needPav",
+			"images": {
+				"left": "images/pav/pav-left.png",
+				"right": "images/pav/pav-right.png",
+				"center": "images/pav/pav-center.png",
+				"fun": "images/pav/pav-fun.png"
+			}
+		},
+		{
+			"name": "Andre Beskrowni",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@needAndre",
+			"images": {
+				"left": "images/andre/andre-left.png",
+				"right": "images/andre/andre-right.png",
+				"center": "images/andre/andre-center.png",
+				"fun": "images/andre/andre-fun.png"
+			}
+		},
+		{
+			"name": "Jeff Erramouspe",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@jeffNeedsTwitter",
+			"images": {
+				"left": "images/jeff/jeff-left.png",
+				"right": "images/jeff/jeff-right.png",
+				"center": "images/jeff/jeff-center.png",
+				"fun": "images/jeff/jeff-fun.png"
+			}
+		},
+		{
+			"name": "Matt Linderman",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@needPav",
+			"images": {
+				"left": "images/matt/mattl-left.png",
+				"right": "images/matt/mattl-right.png",
+				"center": "images/matt/mattl-center.png",
+				"fun": "images/matt/mattl-fun.png"
+			}
+		},
+		{
+			"name": "Mike Sherman",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@needMikeTweeter",
+			"images": {
+				"left": "images/mike/mikes-left.png",
+				"right": "images/mike/mikes-right.png",
+				"center": "images/mike/mikes-center.png",
+				"fun": "images/mike/mikes-fun.png"
+			}
+		},
+		{
+			"name": "Gary Goldman",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@garyNeedsTwitter",
+			"images": {
+				"left": "images/gary/gary-left.png",
+				"right": "images/gary/gary-right.png",
+				"center": "images/gary/gary-center.png",
+				"fun": "images/gary/gary-fun.png"
+			}
+		},
+		{
+			"name": "Lily Phou",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@needLilyTweeter",
+			"images": {
+				"left": "images/lily/lily-left.png",
+				"right": "images/lily/lily-right.png",
+				"center": "images/lily/lily-center.png",
+				"fun": "images/lily/lily-fun.png"
+			}
+		},
+		{
+			"name": "Ashley Price",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@ClassicallyGeek",
+			"images": {
+				"left": "images/ashley/ashley-left.png",
+				"right": "images/ashley/ashley-right.png",
+				"center": "images/ashley/ashley-center.png",
+				"fun": "images/ashley/ashley-fun.png"
+			}
+		},
+		{
+			"name": "Jesse Ramos",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@jesseNeedsTwitter",
+			"images": {
+				"left": "images/jesse/jesse-left.png",
+				"right": "images/jesse/jesse-right.png",
+				"center": "images/jesse/jesse-center.png",
+				"fun": "images/jesse/jesse-fun.png"
+			}
+		},
+		{
+			"name": "Charlie Wood",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@cwood",
+			"images": {
+				"left": "images/charlie/charlie-left.png",
+				"right": "images/charlie/charlie-right.png",
+				"center": "images/charlie/charlie-center.png",
+				"fun": "images/charlie/charlie-fun.png"
+			}
+		},
+		{
+			"name": "Patty Cifra",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@pncifra",
+			"images": {
+				"left": "images/patty/patty-left.png",
+				"right": "images/patty/patty-right.png",
+				"center": "images/patty/patty-center.png",
+				"fun": "images/patty/patty-fun.png"
+			}
+		},
+		{
+			"name": "BJ Heinley",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@bjNeedsTweeter",
+			"images": {
+				"left": "images/bj/bj-left.png",
+				"right": "images/bj/bj-right.png",
+				"center": "images/bj/bj-center.png",
+				"fun": "images/bj/bj-fun.png"
+			}
+		},
+		{
+			"name": "Paul Tearson",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@paulNeedsTweeter",
+			"images": {
+				"left": "images/pault/pault-left.png",
+				"right": "images/pault/pault-right.png",
+				"center": "images/pault/pault-center.png",
+				"fun": "images/pault/pault-fun.png"
+			}
+		},
+		{
+			"name": "Mat Hamlin",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@matNeedsTwitter",
+			"images": {
+				"left": "images/mat/math-left.png",
+				"right": "images/mat/math-right.png",
+				"center": "images/mat/math-center.png",
+				"fun": "images/mat/math-fun.png"
+			}
+		},
+		{
+			"name": "Rob Stokes",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@robNeedsTweeter",
+			"images": {
+				"left": "images/rob/rob-left.png",
+				"right": "images/rob/rob-right.png",
+				"center": "images/rob/rob-center.png",
+				"fun": "images/rob/rob-fun.png"
+			}
+		},
+		{
+			"name": "Andrea Bridges-Smith",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@andreaNeedsTweeter",
+			"images": {
+				"left": "images/andrea/andrea-left.png",
+				"right": "images/andrea/andrea-right.png",
+				"center": "images/andrea/andrea-center.png",
+				"fun": "images/andrea/andrea-fun.png"
+			}
+		},
+		{
+			"name": "Josh Grothe",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@joshaNeedsTweeter",
+			"images": {
+				"left": "images/josh/josh-left.png",
+				"right": "images/josh/josh-right.png",
+				"center": "images/josh/josh-center.png",
+				"fun": "images/josh/josh-fun.png"
+			}
+		},
+		{
+			"name": "Lisa Messelt",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@lmesselt",
+			"images": {
+				"left": "images/lisa/lisa-left.png",
+				"right": "images/lisa/lisa-right.png",
+				"center": "images/lisa/lisa-center.png",
+				"fun": "images/lisa/lisa-fun.png"
+			}
+		},
+		{
+			"name": "Vince Dietsch",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@vinceNeedsTweeter",
+			"images": {
+				"left": "images/vince/vince-left.png",
+				"right": "images/vince/vince-right.png",
+				"center": "images/vince/vince-center.png",
+				"fun": "images/vince/vince-fun.png"
+			}
+		},
+		{
+			"name": "Byron Shaheen",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@byronNeedsTweeter",
+			"images": {
+				"left": "images/byron/byron-left.png",
+				"right": "images/byron/byron-right.png",
+				"center": "images/byron/byron-center.png",
+				"fun": "images/byron/byron-fun.png"
+			}
+		},
+		{
+			"name": "Domas",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@domas",
+			"images": {
+				"left": "images/domas/domas-left.png",
+				"right": "images/domas/domas-right.png",
+				"center": "images/domas/domas-center.png",
+				"fun": "images/domas/domas-fun.png"
+			}
+		},
+		{
+			"name": "Jax",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@jax",
+			"images": {
+				"left": "images/jax/jax-left.png",
+				"right": "images/jax/jax-right.png",
+				"center": "images/jax/jax-center.png",
+				"fun": "images/jax/jax-fun.png"
+			}
+		},
+		{
+			"name": "Mimi",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@mimiThePrincess",
+			"images": {
+				"left": "images/mimi/mimi-left.png",
+				"right": "images/mimi/mimi-right.png",
+				"center": "images/mimi/mimi-center.png",
+				"fun": "images/mimi/mimi-fun.png"
+			}
+		},
+		{
+			"name": "Ivy",
+			"info": "This is some default information that we should populate with some info about a particular individual so that we know something about them",
+			"twitter": "@ivyDaDog",
+			"images": {
+				"left": "images/ivy/ivy-left.png",
+				"right": "images/ivy/ivy-right.png",
+				"center": "images/ivy/ivy-center.png",
+				"fun": "images/ivy/ivy-fun.png"
+			}
+		}
+	]
+}

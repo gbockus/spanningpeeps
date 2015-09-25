@@ -1,0 +1,18 @@
+canvas {
+	border: 2px solid #CCC;
+	display: none;
+	margin-right: auto;
+	margin-left: auto;
+	background: url('../images/austin.jpg') no-repeat;
+	background-size: cover;
+
+	/*
+	background: -moz-linear-gradient(top,  #feffff 0%, #ddf1f9 12%, #9ec0ed 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#feffff), color-stop(12%,#ddf1f9), color-stop(100%,#9ec0ed));
+	background: -webkit-linear-gradient(top,  #feffff 0%,#ddf1f9 12%,#9ec0ed 100%);
+	background: -o-linear-gradient(top,  #feffff 0%,#ddf1f9 12%,#9ec0ed 100%);
+	background: -ms-linear-gradient(top,  #feffff 0%,#ddf1f9 12%,#9ec0ed 100%);
+	background: linear-gradient(to bottom,  #feffff 0%,#ddf1f9 12%,#9ec0ed 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#9ec0ed',GradientType=0 );*/
+
+}

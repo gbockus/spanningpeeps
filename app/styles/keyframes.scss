@@ -1,0 +1,61 @@
+
+@-webkit-keyframes shakeAndWiggle {
+	0% { -webkit-transform: translate(2px, 1px) rotate(0deg); }
+	10% { -webkit-transform: translate(-1px, -2px) rotate(-1deg); }
+	20% { -webkit-transform: translate(-3px, 0px) rotate(1deg); }
+	30% { -webkit-transform: translate(0px, 2px) rotate(0deg); }
+	40% { -webkit-transform: translate(1px, -1px) rotate(1deg); }
+	50% { -webkit-transform: translate(-1px, 2px) rotate(-1deg); }
+	60% { -webkit-transform: translate(-3px, 1px) rotate(0deg); }
+	70% { -webkit-transform: translate(2px, 1px) rotate(-1deg); }
+	80% { -webkit-transform: translate(-1px, -1px) rotate(1deg); }
+	90% { -webkit-transform: translate(2px, 2px) rotate(0deg); }
+	100% { -webkit-transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+@-webkit-keyframes shake {
+	0% { -webkit-transform: rotate(0deg); }
+	10% { -webkit-transform: rotate(-2deg); }
+	20% { -webkit-transform: rotate(2deg); }
+	30% { -webkit-transform: rotate(0deg); }
+	40% { -webkit-transform:  rotate(2deg); }
+	50% { -webkit-transform: rotate(-2deg); }
+	60% { -webkit-transform: rotate(0deg); }
+	70% { -webkit-transform: rotate(-2deg); }
+	80% { -webkit-transform: rotate(2deg); }
+	90% { -webkit-transform: rotate(0deg); }
+	100% { -webkit-transform: rotate(-2deg); }
+}
+
+@-webkit-keyframes superShake {
+	0% { -webkit-transform: rotate(0deg); }
+	5% { -webkit-transform: rotate(-2deg); }
+	20% { -webkit-transform: rotate(-4deg); }
+	25% { -webkit-transform: rotate(-2deg); }
+	20% { -webkit-transform: rotate(0deg); }
+	25% { -webkit-transform: rotate(2deg); }
+	30% { -webkit-transform: rotate(4deg); }
+	35% { -webkit-transform: rotate(2deg); }
+	40% { -webkit-transform:  rotate(0deg); }
+	45% { -webkit-transform:  rotate(-2deg); }
+	50% { -webkit-transform: rotate(-4deg); }
+	55% { -webkit-transform: rotate(-2deg); }
+	60% { -webkit-transform: rotate(0deg); }
+	65% { -webkit-transform: rotate(2deg); }
+	70% { -webkit-transform: rotate(4deg); }
+	75% { -webkit-transform: rotate(2deg); }
+	80% { -webkit-transform: rotate(0deg); }
+	85% { -webkit-transform: rotate(-2deg); }
+	90% { -webkit-transform: rotate(-4deg); }
+	95% { -webkit-transform: rotate(-2deg); }
+	100% { -webkit-transform: rotate(0deg); }
+}
+
+.shake {
+	display:inline-block;
+	-webkit-animation-name: shakeAndWiggle;
+	-webkit-animation-duration: 0.8s;
+	-webkit-transform-origin:50% 50%;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: linear;
+}
